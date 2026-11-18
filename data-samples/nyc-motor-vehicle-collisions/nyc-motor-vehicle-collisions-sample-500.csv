@@ -1,0 +1,501 @@
+crash_date,crash_time,borough,zip_code,latitude,longitude,on_street_name,cross_street_name,off_street_name,number_of_persons_injured,number_of_persons_killed,number_of_pedestrians_injured,number_of_pedestrians_killed,number_of_cyclist_injured,number_of_cyclist_killed,number_of_motorist_injured,number_of_motorist_killed,contributing_factor_vehicle_1,contributing_factor_vehicle_2,vehicle_type_code1,vehicle_type_code2
+2026-11-08T00:00:00.000,00:04,MANHATTAN,,40.73733,-73.99265,5 AVE,W 16 ST,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Motorcycle
+2026-11-08T00:00:00.000,18:52,BRONX,10458,40.861652,-73.891754,,,390 E FORDHAM RD,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,Unknown Truck,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,01:10,,,40.625103,-74.148766,FOREST AVE,RICHMOND AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,20:58,MANHATTAN,,40.78291,-73.98578,HENRY HUDSON PARKWAY,,,2,0,0,0,0,0,2,0,Does Not Apply,Following Too Closely,4 dr sedan,
+2026-11-08T00:00:00.000,02:38,BROOKLYN,,40.714222,-73.93148,GRAND STREET,METROPOLITAN AVENUE,,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,,4 dr sedan,
+2026-11-08T00:00:00.000,18:05,BROOKLYN,11203,40.65744,-73.93119,,,660 UTICA AVE,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Does Not Apply,Van,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,02:00,MANHATTAN,,40.741646,-74.00486,9 AVE,W 15 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,Taxi,
+2026-11-08T00:00:00.000,12:00,BROOKLYN,11232,40.66726,-73.99693,,,566 HAMILTON AVE,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Does Not Apply,Pick-up Truck,Bicyclist
+2026-11-08T00:00:00.000,17:42,BRONX,,0,0,,,3663 WHITE PLAINS RD,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,2 dr sedan,Pick-up Truck
+2026-11-08T00:00:00.000,11:05,QUEENS,,40.743477,-73.73286,GRAND CENTRAL PKWY,,,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,00:00,BROOKLYN,,40.64252,-73.99675,,,945 44 ST,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-08T00:00:00.000,11:09,QUEENS,11361,40.76879,-73.77469,35 AVE,213 ST,,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,01:43,QUEENS,,40.755394,-73.86917,99 ST,,,0,0,0,0,0,0,0,0,Does Not Apply,Other Vehicular,Taxi,4 dr sedan
+2026-11-08T00:00:00.000,10:14,BROOKLYN,,40.624825,-73.951164,,,3185 BEDFORD AVE,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-08T00:00:00.000,20:19,STATEN ISLAND,10301,40.64469,-74.077354,,,78 RICHMOND TER,0,0,0,0,0,0,0,0,Oversized Vehicle,Does Not Apply,Bus (Omnibus),Ambulance
+2026-11-08T00:00:00.000,06:00,QUEENS,,40.65559,-73.85907,BELT PARKWAY,,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,14:51,MANHATTAN,,0,0,,,4 E 51 ST,0,0,0,0,0,0,0,0,Driver Inexperience,Does Not Apply,Police Vehicle,4 dr sedan
+2026-11-08T00:00:00.000,11:40,BROOKLYN,11204,40.60817,-73.98734,BAY RIDGE PKWY,BAY PKWY,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Pick-up Truck,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,02:45,QUEENS,,0,0,,,109-17 101 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Backing Unsafely,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,01:00,QUEENS,11693,40.586994,-73.82011,BEACH CHANNEL DR,BEACH 97 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Unknown Car
+2026-11-08T00:00:00.000,12:30,QUEENS,11433,40.700516,-73.79677,160 ST,LIBERTY AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-08T00:00:00.000,01:24,STATEN ISLAND,,40.539474,-74.17509,MOSELY AVE,BARCLAY AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,21:20,QUEENS,11106,40.761223,-73.93055,CRESCENT ST,34 AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,,
+2026-11-08T00:00:00.000,04:00,MANHATTAN,10001,40.754623,-73.99712,W 35 ST,DYER AVE,,2,0,0,0,0,0,2,0,Traffic Control Disregarded,Traffic Control Disregarded,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,16:19,QUEENS,,40.75185,-73.852264,41 AVE,114 ST,,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,15:13,BRONX,10456,40.833286,-73.91408,E 167 ST,MORRIS AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Bicyclist,
+2026-11-08T00:00:00.000,23:20,BRONX,,40.822136,-73.86699,ROSEDALE AVENUE,SOUNDVIEW AVENUE,,0,0,0,0,0,0,0,0,Other Vehicular,Turning Improperly,Bicyclist,4 dr sedan
+2026-11-08T00:00:00.000,15:14,MANHATTAN,10030,40.81785,-73.94184,W 139 ST,ADAM CLAYTON POWELL JR BLVD,,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-08T00:00:00.000,10:18,QUEENS,,40.747326,-73.71633,255 ST,75 AVE,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,03:37,BROOKLYN,11226,40.652645,-73.94977,LINDEN BLVD,NOSTRAND AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,06:23,BRONX,10473,40.827164,-73.843445,,,930 ZEREGA AVE,0,0,0,0,0,0,0,0,Other Vehicular,Passing or Lane Usage Improper,Pick-up Truck,
+2026-11-08T00:00:00.000,04:08,MANHATTAN,10016,40.74197,-73.98086,E 28 ST,3 AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Unsafe Speed,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,08:53,BROOKLYN,,40.638264,-74.02055,,,6401 4 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,01:27,BROOKLYN,,40.69054,-73.931465,,,914 GREENE AVE,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,Utility,Utility
+2026-11-08T00:00:00.000,15:38,BROOKLYN,,40.587902,-73.98953,CROPSEY AVE,BAY 46 ST,,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-08T00:00:00.000,23:42,BROOKLYN,,40.644638,-73.94311,CORTELYOU RD,BROOKLYN AVE,,0,0,0,0,0,0,0,0,Alcohol Involvement,Does Not Apply,Sedan,Sedan
+2026-11-08T00:00:00.000,08:53,BROOKLYN,11220,40.637215,-74.01852,64 ST,5 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-08T00:00:00.000,12:47,QUEENS,11435,40.714703,-73.823875,,,81-09 134 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,08:30,BROOKLYN,11225,40.66408,-73.948166,EMPIRE BLVD,NEW YORK AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,Police Vehicle,
+2026-11-08T00:00:00.000,18:00,BRONX,10461,40.84302,-73.846016,,,2641 E TREMONT AVE,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,Motorcycle,4 dr sedan
+2026-11-08T00:00:00.000,20:13,BRONX,,40.864326,-73.80169,ORCHARD BEACH ROAD,PARK DRIVE,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,19:00,MANHATTAN,10029,40.78941,-73.94125,,,335 E 105 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-08T00:00:00.000,17:34,BROOKLYN,11221,40.69708,-73.93184,WILLOUGHBY AVE,BUSHWICK AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,13:20,BROOKLYN,11221,40.683884,-73.94098,,,535 THROOP AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-08T00:00:00.000,02:07,,,40.66591,-73.76997,GUY R BREWER BLVD,145 AVE,,1,0,0,0,1,0,0,0,Does Not Apply,View Obstructed/Limited,4 dr sedan,Bicyclist
+2026-11-08T00:00:00.000,20:22,BROOKLYN,11238,40.675755,-73.97142,FLATBUSH AVE,8 AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Following Too Closely,4 dr sedan,Bicyclist
+2026-11-08T00:00:00.000,22:04,QUEENS,11367,40.726685,-73.82182,72 AVE,MAIN ST,,1,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,4 dr sedan,E-Scooter (standing)
+2026-11-08T00:00:00.000,01:50,QUEENS,11103,40.76314,-73.9134,30 AVE,42 ST,,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,19:00,QUEENS,,40.752075,-73.7211,LITTLE NECK PKWY,252 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,22:29,QUEENS,11420,40.67751,-73.810844,128 ST,116 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,07:00,MANHATTAN,10013,40.723747,-74.00612,VARICK ST,WATTS ST,,2,0,0,0,0,0,2,0,Driver Inexperience,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Pick-up Truck
+2026-11-08T00:00:00.000,14:01,BROOKLYN,,40.653633,-74.008224,GOWANUS EXPY (BQE),,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-08T00:00:00.000,00:35,STATEN ISLAND,,40.612705,-74.12639,,,1874 VICTORY BLVD,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-08T00:00:00.000,22:10,QUEENS,,40.673073,-73.84574,PITKIN AVE,WHITELAW ST,,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,06:20,BRONX,,40.834522,-73.861855,VIRGINIA AVE,MCGRAW AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,17:38,BROOKLYN,11207,40.657593,-73.88349,VAN SICLEN AVE,WORTMAN AVE,,2,0,2,0,0,0,0,0,Failure to Yield Right-of-Way,,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,02:07,QUEENS,,40.68218,-73.842186,,,103-28 98 ST,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Speed,4 dr sedan,
+2026-11-08T00:00:00.000,15:44,,,40.608307,-74.13132,STATEN ISLAND EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,16:34,BROOKLYN,,40.6958,-73.99824,BROOKLYN QUEENS EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Lane Changing,Utility,Utility
+2026-11-08T00:00:00.000,21:30,BROOKLYN,,40.649418,-73.9274,,,422 E 53 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,09:15,MANHATTAN,10128,40.782433,-73.95046,,,205 E 92 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,23:32,QUEENS,,40.75957,-73.83014,ROOSEVELT AVE,,,0,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,4 dr sedan,Pick-up Truck
+2026-11-08T00:00:00.000,15:45,BROOKLYN,11225,40.668022,-73.95893,CARROLL ST,FRANKLIN AVE,,1,0,0,0,1,0,0,0,Traffic Control Disregarded,Does Not Apply,Bicyclist,Police Vehicle
+2026-11-08T00:00:00.000,17:53,BROOKLYN,11229,40.610714,-73.95574,E 18 ST,AVENUE P,,1,0,0,0,0,0,0,0,Other Vehicular,Traffic Control Disregarded,Sedan,E-Scooter (standing)
+2026-11-08T00:00:00.000,08:15,QUEENS,11419,40.685444,-73.82999,,,112-11 LIBERTY AVE,0,0,0,0,0,0,0,0,Driver Inexperience,Backing Unsafely,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,01:25,MANHATTAN,,40.76657,-73.993866,,,565 W 51 ST,0,0,0,0,0,0,0,0,Does Not Apply,Backing Unsafely,4 dr sedan,
+2026-11-08T00:00:00.000,19:20,MANHATTAN,,40.83449,-73.94005,W 160 ST,ST NICHOLAS AVE,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,4 dr sedan,
+2026-11-08T00:00:00.000,03:18,BRONX,,40.878475,-73.87917,,,3322 BAINBRIDGE AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-08T00:00:00.000,10:51,QUEENS,11411,40.700264,-73.745,209 ST,115 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,11:50,BRONX,,40.832325,-73.916756,MCCLELLAN ST,SHERMAN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-08T00:00:00.000,20:01,BRONX,10455,40.81676,-73.91746,E 150 ST,MELROSE AVE,,2,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,Unknown Car,E-Bike (must have pedals)
+2026-11-08T00:00:00.000,23:15,QUEENS,,40.68134,-73.861275,,,97-14 77 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,03:00,STATEN ISLAND,,40.540257,-74.21827,,,21 CLAY PIT RD,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,20:01,BROOKLYN,11216,40.680088,-73.94397,FULTON ST,BROOKLYN AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Pick-up Truck
+2026-11-08T00:00:00.000,18:18,MANHATTAN,,40.863113,-73.92061,W 204 ST,,,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inexperience,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,12:26,BROOKLYN,11220,40.645107,-74.01032,5 AVE,50 ST,,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,E-Scooter (standing)
+2026-11-08T00:00:00.000,15:15,BROOKLYN,,40.674313,-73.95008,NOSTRAND AVE,,,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,4 dr sedan,Bus (Omnibus)
+2026-11-08T00:00:00.000,22:33,BRONX,10468,40.86266,-73.906876,,,130 W FORDHAM RD,1,0,0,0,0,0,1,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,16:18,QUEENS,,40.593826,-73.77591,,,44-10 ROCKAWAY BEACH BLVD,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,21:25,MANHATTAN,,40.755733,-73.99187,,,311 W 39 ST,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Bicyclist,4 dr sedan
+2026-11-08T00:00:00.000,09:30,BROOKLYN,11211,40.718098,-73.948494,,,395 LEONARD ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,22:02,BROOKLYN,11206,40.700726,-73.94193,BROADWAY,FLUSHING AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,21:04,BROOKLYN,11236,40.642754,-73.90377,CONKLIN AVE,E 94 ST,,3,0,0,0,0,0,3,0,Failure to Yield Right-of-Way,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,16:30,MANHATTAN,,40.71578,-73.99133,,,34 ORCHARD ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-08T00:00:00.000,21:20,BRONX,,40.83609,-73.87039,CROSS BRONX EXPY,,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,02:35,MANHATTAN,,40.71974,-73.98695,,,128 RIVINGTON ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,2 dr sedan,
+2026-11-08T00:00:00.000,15:03,MANHATTAN,,40.78361,-73.9745,,,450 COLUMBUS AVE,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Lane Changing,4 dr sedan,
+2026-11-08T00:00:00.000,16:30,BROOKLYN,,40.66877,-73.97671,4 ST,8 AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,21:00,QUEENS,,40.71835,-73.74994,211 PL,93 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-08T00:00:00.000,18:15,STATEN ISLAND,10306,40.565086,-74.13034,AMBOY RD,RIEDEL AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,07:29,QUEENS,,40.756664,-73.782814,FRANCIS LEWIS BLVD,45 AVE,,0,0,0,0,0,0,0,0,Driver Inexperience,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,17:50,QUEENS,,,,Throggs neck bridge,Cross island pkwy,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,23:02,QUEENS,,40.750206,-73.71714,,,73-30 260 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,2 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,06:37,BROOKLYN,11225,40.6689,-73.95861,PRESIDENT ST,FRANKLIN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,Police Vehicle,
+2026-11-08T00:00:00.000,12:50,BRONX,,40.874992,-73.81846,HUTCHINSON RIVER PARKWAY,,,1,0,0,0,0,0,1,0,Does Not Apply,,Motorcycle,
+2026-11-08T00:00:00.000,05:00,BRONX,10473,40.8223,-73.87299,MORRISON AVE,STORY AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,15:46,QUEENS,,40.6828,-73.85306,87 ST,ROCKAWAY BLVD,,4,0,0,0,0,0,4,0,Failure to Yield Right-of-Way,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,18:50,BROOKLYN,11207,40.675735,-73.89685,ATLANTIC AVE,PENNSYLVANIA AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Failure to Yield Right-of-Way,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,13:30,BROOKLYN,11203,40.637455,-73.928856,UTICA AVE,FARRAGUT RD,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,05:20,QUEENS,11373,40.737705,-73.8823,QUEENS BLVD,51 AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-08T00:00:00.000,20:05,QUEENS,,40.727425,-73.90712,LONG ISLAND EXPRESSWAY,MAURICE AVENUE,,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,,4 dr sedan,
+2026-11-08T00:00:00.000,11:35,BROOKLYN,,40.618446,-74.01653,11 AVE,83 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Unknown Vehicle
+2026-11-08T00:00:00.000,01:43,BROOKLYN,,40.68611,-73.99434,,,254 BALTIC ST,0,0,0,0,0,0,0,0,Does Not Apply,Turning Improperly,4 dr sedan,Van
+2026-11-08T00:00:00.000,14:19,QUEENS,11354,40.764755,-73.82142,,,144-50 NORTHERN BLVD,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,04:00,QUEENS,,40.73425,-73.86336,LONG ISLAND EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,23:33,BROOKLYN,11206,40.702312,-73.93534,FLUSHING AVE,STANWIX ST,,2,0,0,0,0,0,2,0,Driver Inexperience,Driver Inexperience,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,15:00,BROOKLYN,,40.66506,-73.92416,,,53 ROCKAWAY PKWY,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,22:56,QUEENS,,40.68865,-73.8471,96 ST,ATLANTIC AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Van
+2026-11-08T00:00:00.000,08:37,QUEENS,,40.77665,-73.81966,147 ST,WILLETS POINT BLVD,,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Does Not Apply,4 dr sedan,Bicyclist
+2026-11-08T00:00:00.000,11:00,MANHATTAN,10023,40.773926,-73.98529,,,100 AMSTERDAM AVE,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,
+2026-11-08T00:00:00.000,05:09,BROOKLYN,,40.61381,-73.98534,,,6714 21 AVE,0,0,0,0,0,0,0,0,Alcohol Involvement,Does Not Apply,4 dr sedan,Sedan
+2026-11-08T00:00:00.000,04:25,BROOKLYN,11206,40.699516,-73.94119,,,13 MARCUS GARVEY BLVD,0,0,0,0,0,0,0,0,Fell Asleep,Does Not Apply,4 dr sedan,Pick-up Truck
+2026-11-08T00:00:00.000,01:45,MANHATTAN,,40.754177,-73.9846,AVENUE OF THE AMERICAS,,,1,0,0,0,0,0,1,0,Does Not Apply,Failure to Yield Right-of-Way,Taxi,Unknown Car
+2026-11-08T00:00:00.000,04:37,QUEENS,11418,40.69827,-73.83485,114 ST,JAMAICA AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,15:55,BROOKLYN,11214,40.607567,-73.98796,BAY PKWY,76 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Utility Task Vehicle,4 dr sedan
+2026-11-08T00:00:00.000,17:25,QUEENS,,40.686234,-73.82417,LEFFERTS BLVD,,,7,0,0,0,0,0,7,0,Does Not Apply,Does Not Apply,Bus (Omnibus),Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,20:18,QUEENS,11420,40.67297,-73.83324,,,110-00 ROCKAWAY BLVD,0,0,0,0,0,0,0,0,Alcohol Involvement,,,
+2026-11-08T00:00:00.000,20:08,QUEENS,,0,0,,,71-15 41 AVE,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,10:08,BROOKLYN,,40.68815,-73.998245,,,154 WARREN ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-08T00:00:00.000,02:00,BROOKLYN,11228,40.615364,-74.005394,15 AVE,79 ST,,1,0,0,0,1,0,0,0,Does Not Apply,Driver Inattention/Distraction,Bicyclist,
+2026-11-08T00:00:00.000,18:31,STATEN ISLAND,,40.637833,-74.081924,WESTERVELT AVE,CORSON AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,Van,
+2026-11-08T00:00:00.000,10:33,BROOKLYN,11225,40.662354,-73.95081,NOSTRAND AVE,LEFFERTS AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,2 dr sedan,Bus (Omnibus)
+2026-11-08T00:00:00.000,04:20,BRONX,,40.852383,-73.90364,GRAND CONC,E BURNSIDE AVE,,0,0,0,0,0,0,0,0,Alcohol Involvement,Does Not Apply,Unknown Car,4 dr sedan
+2026-11-08T00:00:00.000,03:49,QUEENS,,40.72619,-73.90409,LONG ISLAND EXPRESSWAY,,,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,07:02,BROOKLYN,,40.67149,-73.94756,NEW YORK AVE,,,1,0,1,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,Taxi,
+2026-11-08T00:00:00.000,09:35,,,40.683132,-73.74936,131 AVE,,,1,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,E-Bike (must have pedals),Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,13:00,MANHATTAN,,40.792435,-73.934265,FDR DRIVE,,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,09:23,QUEENS,,40.75426,-73.74334,LONG ISLAND EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,15:05,BROOKLYN,11217,40.685326,-73.980705,ATLANTIC AVE,3 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Van,2 dr sedan
+2026-11-08T00:00:00.000,00:00,MANHATTAN,10001,40.74662,-73.99381,W 27 ST,7 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-08T00:00:00.000,18:00,QUEENS,,40.760536,-73.92679,,,32-62 31 ST,1,0,0,0,0,0,1,0,Turning Improperly,Failure to Yield Right-of-Way,4 dr sedan,Moped
+2026-11-08T00:00:00.000,19:00,QUEENS,11375,40.7079,-73.8511,UNION TPKE,71 AVE,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Pick-up Truck
+2026-11-08T00:00:00.000,04:28,BROOKLYN,11203,40.66053,-73.932335,RUTLAND RD,E 49 ST,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,Van,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,08:20,QUEENS,,40.739708,-73.84544,GRAND CENTRAL PARKWAY,LONG ISLAND EXPRESSWAY,,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,12:00,STATEN ISLAND,,40.630936,-74.1026,FOREST AVE,SHARON AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Pick-up Truck
+2026-11-08T00:00:00.000,00:15,BROOKLYN,11209,40.631504,-74.02479,74 ST,4 AVE,,0,0,0,0,0,0,0,0,Alcohol Involvement,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,05:50,QUEENS,11691,40.595203,-73.75602,SEAGIRT BLVD,CREST RD,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,07:10,BRONX,,40.872635,-73.83742,,,3037 ELY AVE,0,0,0,0,0,0,0,0,Tire/Wheel failure/inadequate,Other Vehicular,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,04:29,BRONX,,40.86159,-73.91295,MAJOR DEEGAN EXPRESSWAY,,,6,0,0,0,0,0,6,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,01:23,BROOKLYN,11220,40.645107,-74.01032,50 ST,5 AVE,,0,0,0,0,0,0,0,0,Backing Unsafely,,Van,
+2026-11-08T00:00:00.000,21:47,QUEENS,11434,40.667995,-73.78676,BAISLEY BLVD,134 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,18:27,BROOKLYN,11228,40.618057,-74.02052,86 ST,10 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-08T00:00:00.000,03:00,QUEENS,,40.727776,-73.92902,BROOKLYN QUEENS EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,16:08,BROOKLYN,,40.650246,-73.94452,,,207 E 35 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,18:36,BROOKLYN,11206,40.69309,-73.942955,THROOP AVE,PULASKI ST,,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,4 dr sedan,
+2026-11-08T00:00:00.000,02:25,BROOKLYN,,40.697643,-73.98219,BROOKLYN QUEENS EXPRESSWAY,,,0,1,0,0,0,0,0,1,Alcohol Involvement,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,16:23,BRONX,10454,40.80671,-73.92285,,,437 E 135 ST,1,0,1,0,0,0,0,0,Does Not Apply,,,
+2026-11-08T00:00:00.000,13:56,BROOKLYN,11249,40.71082,-73.96853,KENT AVE,BROADWAY,,2,0,1,0,1,0,0,0,Traffic Control Disregarded,,Bicyclist,
+2026-11-08T00:00:00.000,14:30,BRONX,,40.858063,-73.86819,BOSTON ROAD,PELHAM PARKWAY,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-08T00:00:00.000,16:30,QUEENS,11423,40.70871,-73.779045,182 ST,JAMAICA AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Pick-up Truck,
+2026-11-08T00:00:00.000,01:38,QUEENS,,40.691093,-73.72683,CROSS ISLAND PARKWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-08T00:00:00.000,11:50,BROOKLYN,,40.639503,-73.98746,13 AVE,41 ST,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,14:00,QUEENS,,40.685066,-73.82474,,,104-36 118 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inexperience,4 dr sedan,
+2026-11-08T00:00:00.000,15:25,BROOKLYN,11225,40.665417,-73.965355,,,450 FLATBUSH AVE,1,0,0,0,0,0,1,0,Does Not Apply,Failure to maintain lane,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,18:59,QUEENS,,,,Grand central service rd,Homelawn st,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,03:30,QUEENS,11420,40.66549,-73.81953,N CONDUIT AVE,122 ST,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,12:50,BROOKLYN,,40.683727,-73.94517,,,318 JEFFERSON AVE,1,0,0,0,0,0,1,0,Aggressive Driving/Road Rage,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,20:19,BROOKLYN,,40.585403,-73.93904,NOSTRAND AVENUE,BELT PARKWAY,,2,0,0,0,0,0,2,0,Does Not Apply,Fell Asleep,Utility,4 dr sedan
+2026-11-08T00:00:00.000,21:08,,,40.622635,-74.16407,SELVIN LOOP,LISK AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,14:38,BROOKLYN,11211,40.71473,-73.94207,BUSHWICK AVE,METROPOLITAN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Backing Unsafely,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,05:40,MANHATTAN,10022,40.7606,-73.96432,E 59 ST,2 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Failure to Yield Right-of-Way,E-Bike (must have pedals),4 dr sedan
+2026-11-08T00:00:00.000,03:00,QUEENS,11368,40.745266,-73.85595,108 ST,49 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,03:13,MANHATTAN,,40.841843,-73.94539,HENRY HUDSON PARKWAY,,,0,0,0,0,0,0,0,0,Pavement Defective,,Utility,
+2026-11-08T00:00:00.000,16:44,BROOKLYN,,40.633163,-74.01639,7 AVENUE,67 STREET,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,22:20,MANHATTAN,,40.759617,-73.991135,,,353 W 44 ST,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,4 dr sedan,Bicyclist
+2026-11-08T00:00:00.000,19:46,BRONX,10467,40.879185,-73.87165,,,3509 WEBSTER AVE,1,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,E-Scooter (standing),Moped
+2026-11-08T00:00:00.000,14:25,BROOKLYN,11201,40.696198,-73.98876,TILLARY ST,ADAMS ST,,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,01:00,BROOKLYN,,40.698776,-73.952805,,,33 NOSTRAND AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-08T00:00:00.000,13:06,QUEENS,11427,40.72681,-73.75003,HILLSIDE AVE,215 ST,,1,0,1,0,0,0,0,0,Does Not Apply,,Van,
+2026-11-08T00:00:00.000,04:30,BROOKLYN,,0,0,,,20 SOMERS ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,17:22,BRONX,,,,MOSHOLU PKWY,null,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-08T00:00:00.000,17:43,BROOKLYN,,0,0,,,141 MCDONALD AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-08T00:00:00.000,06:45,QUEENS,11101,40.743195,-73.93672,30 PL,47 AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,2 dr sedan
+2026-11-08T00:00:00.000,17:00,BRONX,10469,40.878403,-73.84732,,,3467 EASTCHESTER RD,0,0,0,0,0,0,0,0,Does Not Apply,Backing Unsafely,Utility,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,00:00,QUEENS,11368,40.751713,-73.869026,,,37-10 98 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,03:06,BROOKLYN,,40.69614,-73.9734,BROOKLYN QUEENS EXPRESSWAY,,,9,0,0,0,0,0,9,0,Unsafe Speed,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-08T00:00:00.000,02:50,BROOKLYN,11221,40.699627,-73.923836,DEKALB AVE,WILSON AVE,,1,0,0,0,1,0,0,0,Other Vehicular,Driver Inattention/Distraction,4 dr sedan,Bicyclist
+2026-11-08T00:00:00.000,21:30,MANHATTAN,10035,40.80275,-73.93358,E 125 ST,2 AVE,,0,0,0,0,0,0,0,0,View Obstructed/Limited,,Van,
+2026-11-08T00:00:00.000,17:19,QUEENS,,40.59225,-73.79985,BEACH 71 STREET,BEACH CHANNEL DRIVE,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-07T00:00:00.000,21:10,,,40.574867,-74.16747,,,2873 RICHMOND AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,13:27,,,40.638405,-74.13536,,,59 GROVE AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,20:01,MANHATTAN,,0,0,,,17 WOOSTER ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,16:45,QUEENS,,40.755936,-73.94033,,,39-25 21 ST,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,4 dr sedan,Unknown Car
+2026-11-07T00:00:00.000,09:28,BROOKLYN,,40.61789,-74.01711,84 ST,11 AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Failure to Yield Right-of-Way,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,15:13,BROOKLYN,11221,40.6981,-73.92516,CENTRAL AVE,MYRTLE AVE,,1,0,0,0,1,0,0,0,Other Vehicular,Other Vehicular,4 dr sedan,Bicyclist
+2026-11-07T00:00:00.000,10:45,QUEENS,,40.716084,-73.8031,164 STREET,GRAND CENTRAL PARKWAY,,4,0,0,0,0,0,4,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-07T00:00:00.000,03:54,,,40.609436,-74.16085,,,1592 RICHMOND AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-07T00:00:00.000,17:20,BRONX,,40.843258,-73.84854,,,2547 E TREMONT AVE,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Lane Changing,4 dr sedan,Unknown Car
+2026-11-07T00:00:00.000,03:40,QUEENS,11101,40.74223,-73.95784,,,2-23 BORDEN AVE,0,0,0,0,0,0,0,0,Driver Inexperience,,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,12:30,BROOKLYN,,40.61306,-73.95815,AVENUE O,E 16 ST,,2,0,0,0,0,0,2,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Van
+2026-11-07T00:00:00.000,17:00,BROOKLYN,,40.678448,-73.98334,,,635 SACKETT ST,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,
+2026-11-07T00:00:00.000,12:20,MANHATTAN,10014,40.734604,-74.00575,,,111 CHARLES ST,0,0,0,0,0,0,0,0,Does Not Apply,,Police Vehicle,
+2026-11-07T00:00:00.000,17:45,BROOKLYN,,40.718452,-73.94842,RICHARDSON ST,LEONARD ST,,0,0,0,0,0,0,0,0,Does Not Apply,Turning Improperly,4 dr sedan,Fire Vehicle
+2026-11-07T00:00:00.000,03:20,BRONX,,40.8621,-73.89696,,,2488 GRAND CONC,0,0,0,0,0,0,0,0,Other Vehicular,Driver Inattention/Distraction,4 dr sedan,Bicyclist
+2026-11-07T00:00:00.000,23:50,BRONX,,40.860535,-73.914345,MAJOR DEEGAN EXPRESSWAY,,,2,0,0,0,0,0,2,0,Unsafe Speed,Does Not Apply,4 dr sedan,
+2026-11-07T00:00:00.000,05:15,QUEENS,11377,40.74668,-73.90071,63 ST,39 AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,,
+2026-11-07T00:00:00.000,18:30,BROOKLYN,,40.610516,-73.998886,18 AVE,80 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,19:27,MANHATTAN,10025,40.795956,-73.970825,BROADWAY,W 98 ST,,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,,E-Bike (must have pedals),
+2026-11-07T00:00:00.000,15:55,QUEENS,11374,40.711845,-73.85976,WOODHAVEN BLVD,METROPOLITAN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Lane Changing,4 dr sedan,Sedan
+2026-11-07T00:00:00.000,19:49,BROOKLYN,11210,40.636135,-73.94816,,,2022 NOSTRAND AVE,0,0,0,0,0,0,0,0,Turning Improperly,Does Not Apply,Bicyclist,4 dr sedan
+2026-11-07T00:00:00.000,20:09,,,40.609497,-74.150185,VICTORY BLVD,STATEN ISLAND EXPY,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,16:05,QUEENS,11433,40.701237,-73.79464,LIBERTY AVE,GUY R BREWER BLVD,,1,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,E-Scooter (standing),4 dr sedan
+2026-11-07T00:00:00.000,17:40,BROOKLYN,11210,40.63845,-73.94894,,,2902 FOSTER AVE,2,0,0,0,0,0,2,0,Does Not Apply,Brakes Defective,Sedan,4 dr sedan
+2026-11-07T00:00:00.000,04:36,,,40.621773,-74.13861,COLLEGE AVE,MARIANNE ST,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,21:45,BROOKLYN,11217,40.683167,-73.97332,,,677 ATLANTIC AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Sedan
+2026-11-07T00:00:00.000,12:05,QUEENS,,40.75855,-73.829636,MAIN ST,41 AVE,,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Moped
+2026-11-07T00:00:00.000,17:45,MANHATTAN,,40.723812,-74.00368,,,55 THOMPSON ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,20:09,,,40.626312,-74.15857,FOREST AVE,HEANEY AVE,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,00:00,BRONX,10474,40.814438,-73.893074,BARRY ST,LONGWOOD AVE,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,18:01,QUEENS,,40.71024,-73.84876,,,104-03 METROPOLITAN AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,11:10,QUEENS,,40.710674,-73.81533,,,141-40 84 DR,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,02:40,QUEENS,,40.683094,-73.80596,VAN WYCK EXPWY,,,2,0,0,0,0,0,2,0,Unsafe Lane Changing,Driver Inattention/Distraction,Taxi,Pick-up Truck
+2026-11-07T00:00:00.000,01:08,BROOKLYN,11206,40.699406,-73.95337,LEE AVE,FLUSHING AVE,,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,4 dr sedan,
+2026-11-07T00:00:00.000,09:00,BROOKLYN,11235,40.586643,-73.93328,,,3855 SHORE PKWY,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,12:54,MANHATTAN,10029,40.796005,-73.93541,E 116 ST,1 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Police Vehicle,Bus (Omnibus)
+2026-11-07T00:00:00.000,23:16,MANHATTAN,,40.853687,-73.93054,ST NICHOLAS AVE,,,1,0,0,0,0,0,1,0,Does Not Apply,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,02:33,BROOKLYN,11249,40.69819,-73.9619,CLASSON AVE,FLUSHING AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,05:00,QUEENS,11368,40.755802,-73.86534,103 ST,34 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Moped
+2026-11-07T00:00:00.000,20:08,BROOKLYN,,40.660988,-73.8892,HEGEMAN AVE,WYONA ST,,5,0,0,0,0,0,5,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Unknown Car
+2026-11-07T00:00:00.000,22:52,QUEENS,11358,40.762917,-73.800804,165 ST,CROCHERON AVE,,3,0,0,0,0,0,3,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,20:00,QUEENS,,40.68252,-73.842,,,103-17 98 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,16:05,QUEENS,,40.726444,-73.90316,63 ST,QUEENS MIDTOWN EXPY,,0,0,0,0,0,0,0,0,Driver Inexperience,Does Not Apply,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-07T00:00:00.000,14:00,BRONX,10467,40.87755,-73.86165,E 211 ST,BARNES AVE,,1,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,E-Scooter (standing)
+2026-11-07T00:00:00.000,01:30,QUEENS,,40.78816,-73.81678,14 AVENUE,CROSS ISLAND PARKWAY,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,,
+2026-11-07T00:00:00.000,03:34,BRONX,10472,40.829502,-73.87461,WESTCHESTER AVE,MORRISON AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Outside Car Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,17:59,BRONX,10451,40.826397,-73.92116,E 161 ST,SHERIDAN AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-07T00:00:00.000,23:32,STATEN ISLAND,,40.63777,-74.07601,BAY ST,VICTORY BLVD,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,Police Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,15:00,BROOKLYN,11216,40.68138,-73.953514,BEDFORD AVE,HALSEY ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,11:00,MANHATTAN,10020,40.75927,-73.98089,W 49 ST,AVENUE OF THE AMERICAS,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-07T00:00:00.000,16:02,BROOKLYN,11207,40.654488,-73.89521,WILLIAMS AVE,STANLEY AVE,,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Passing or Lane Usage Improper,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,19:58,MANHATTAN,10019,40.769005,-73.99235,11 AVE,W 55 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Turning Improperly,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,06:22,BROOKLYN,11203,40.65334,-73.93561,,,624 LINDEN BLVD,1,0,0,0,0,0,1,0,Alcohol Involvement,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,07:00,QUEENS,,40.729965,-73.911736,58 ST,54 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,10:00,STATEN ISLAND,,40.54448,-74.14527,CLEVELAND AVE,MELROSE PL,,1,0,0,0,0,0,1,0,Does Not Apply,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,11:21,QUEENS,11104,40.74359,-73.92241,42 ST,QUEENS BLVD,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,00:55,QUEENS,,40.692493,-73.817055,101 AVE,130 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,09:02,MANHATTAN,,40.73908,-74.00308,8 AVE,W 13 ST,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,4 dr sedan,
+2026-11-07T00:00:00.000,10:05,BROOKLYN,11207,40.67509,-73.89186,LIBERTY AVE,MILLER AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,Bicyclist
+2026-11-07T00:00:00.000,16:51,MANHATTAN,10019,40.76773,-73.98471,,,347 W 57 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Low Speed Vehicle
+2026-11-07T00:00:00.000,04:00,QUEENS,11385,40.707382,-73.91821,,,1702 SUYDAM ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,15:36,BROOKLYN,,40.65957,-73.9225,E 94 ST,,,4,0,0,0,0,0,4,0,Other Vehicular,Other Vehicular,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,14:50,BRONX,10475,40.868534,-73.82573,,,2138 BARTOW AVE,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,12:10,BROOKLYN,,40.655273,-73.93177,E 49 ST,,,3,0,0,0,0,0,3,0,Traffic Control Disregarded,Does Not Apply,Station Wagon/Sport Utility Vehicle,Delivery Truck
+2026-11-07T00:00:00.000,21:42,BROOKLYN,,40.667263,-73.88446,,,640 WARWICK ST,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Other Vehicular,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,13:05,BRONX,10452,40.845177,-73.91416,CROSS BRONX EXPY,JEROME AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Moped
+2026-11-07T00:00:00.000,12:00,BROOKLYN,,40.636147,-73.99096,47 ST,13 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,03:00,QUEENS,,40.742935,-73.82772,HORACE HARDING EXPY,138 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,08:20,BROOKLYN,11212,40.666744,-73.91291,THOMAS S BOYLAND ST,SUTTER AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-07T00:00:00.000,04:49,BROOKLYN,11216,40.678158,-73.94415,ATLANTIC AVE,BROOKLYN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,15:57,BRONX,10452,40.840225,-73.91769,E 170 ST,JEROME AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Turning Improperly,4 dr sedan,Unknown Car
+2026-11-07T00:00:00.000,13:55,BRONX,10465,40.83236,-73.827675,OTIS AVE,E TREMONT AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,,
+2026-11-07T00:00:00.000,13:38,MANHATTAN,,40.758644,-73.98134,W 48 ST,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Ambulance,Van
+2026-11-07T00:00:00.000,02:17,BROOKLYN,11226,40.640694,-73.95072,,,2714 AVENUE D,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,21:35,BRONX,,40.82802,-73.93122,MAJOR DEEGAN EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inexperience,Delivery Truck,Sedan
+2026-11-07T00:00:00.000,09:55,MANHATTAN,,40.74108,-74.00156,8 AVE,,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Failure to Yield Right-of-Way,Taxi,Motorcycle
+2026-11-07T00:00:00.000,16:13,BROOKLYN,11211,40.714676,-73.96024,,,171 N 1 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inexperience,2 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,14:29,BRONX,10469,40.869762,-73.84488,E GUN HILL RD,KNAPP ST,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,16:20,BROOKLYN,11220,40.63887,-74.00985,,,5614 7 AVE,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,Station Wagon/Sport Utility Vehicle,Utility Task Vehicle
+2026-11-07T00:00:00.000,08:00,QUEENS,,40.788193,-73.79059,CROSS ISLAND PKWY,CLEARVIEW EXPY,,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,Bicyclist
+2026-11-07T00:00:00.000,14:20,QUEENS,11375,40.71889,-73.84159,72 RD,AUSTIN ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-07T00:00:00.000,01:30,BRONX,10452,40.84424,-73.92362,UNIVERSITY AVE,OGDEN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Van,
+2026-11-07T00:00:00.000,14:00,BROOKLYN,11236,40.646553,-73.91326,,,864 REMSEN AVE,1,0,0,0,0,0,0,0,Passing Too Closely,Lane Marking Improper/Inadequate,Moped,4 dr sedan
+2026-11-07T00:00:00.000,07:36,QUEENS,11372,40.746845,-73.89143,ROOSEVELT AVE,74 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,01:40,MANHATTAN,10014,40.733635,-74.002785,7 AVE S,CHRISTOPHER ST,,0,0,0,0,0,0,0,0,Other Vehicular,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,17:55,,,,,STATEN ISLAND EXPY WB EXIT 9,STATEN ISLAND EXPY WB EXIT 9,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,06:29,BROOKLYN,,,,Pearl,Prospect,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,20:21,STATEN ISLAND,10306,40.570465,-74.109764,HYLAN BLVD,NEW DORP LN,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,05:00,BRONX,,40.830227,-73.89857,UNION AVE,FREEMAN ST,,0,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,4 dr sedan,
+2026-11-07T00:00:00.000,12:40,BROOKLYN,11224,40.578823,-73.986275,W 19 ST,NEPTUNE AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Lane Changing,4 dr sedan,Dump
+2026-11-07T00:00:00.000,22:55,BRONX,10452,40.839607,-73.91814,JEROME AVE,ELLIOT PL,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Ambulance,Pick-up Truck
+2026-11-07T00:00:00.000,14:36,BRONX,,40.86256,-73.90287,,,36 W FORDHAM RD,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,11:10,BROOKLYN,11226,0,0,,,2620 NEWKIRK AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,10:39,MANHATTAN,,0,0,,,2001 1 AVE,1,0,0,0,1,0,0,0,Does Not Apply,Failure to Yield Right-of-Way,Bicyclist,4 dr sedan
+2026-11-07T00:00:00.000,03:32,QUEENS,,40.71122,-73.728264,CROSS ISLAND PKWY,HEMPSTEAD AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,22:20,MANHATTAN,10002,40.718555,-73.9882,ESSEX ST,DELANCEY ST,,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Bicyclist,
+2026-11-07T00:00:00.000,01:49,BROOKLYN,,40.583626,-73.98407,BELT PARKWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Unsafe Speed,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,01:00,BROOKLYN,,0,0,,,1372 E 83 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,22:30,MANHATTAN,,40.728394,-74.00313,AVENUE OF THE AMERICAS,WEST HOUSTON STREET,,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Unsafe Lane Changing,Taxi,
+2026-11-07T00:00:00.000,13:10,QUEENS,,0,0,,,69-05 188 ST,1,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,E-Bike (must have pedals)
+2026-11-07T00:00:00.000,21:55,QUEENS,11368,40.752254,-73.85275,,,112-44 ROOSEVELT AVE,1,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,E-Scooter (standing),4 dr sedan
+2026-11-07T00:00:00.000,12:45,,,40.587032,-74.16732,,,2485 RICHMOND AVE,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,19:54,BRONX,10460,40.837917,-73.88371,,,961 E 174 ST,1,0,1,0,0,0,0,0,,,,
+2026-11-07T00:00:00.000,22:28,BRONX,,40.811485,-73.92639,E 139 ST,,,2,0,0,0,0,0,2,0,Does Not Apply,Driver Inattention/Distraction,Taxi,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,23:50,,,40.5794,-74.16948,RICHMOND AVE,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Ambulance
+2026-11-07T00:00:00.000,01:33,BRONX,,40.84211,-73.82557,BRUCKNER EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-07T00:00:00.000,21:45,BROOKLYN,11217,40.68368,-73.97557,,,625 ATLANTIC AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Sedan,Sedan
+2026-11-07T00:00:00.000,03:15,BRONX,,40.903687,-73.85489,,,563 E 240 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Van,
+2026-11-07T00:00:00.000,19:39,QUEENS,,40.75153,-73.85918,108 ST,39 AVE,,1,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,E-Scooter (standing)
+2026-11-07T00:00:00.000,15:05,QUEENS,,40.715744,-73.90602,60 RD,60 ST,,2,0,2,0,0,0,0,0,Failure to Yield Right-of-Way,,4 dr sedan,
+2026-11-07T00:00:00.000,01:16,QUEENS,,40.59717,-73.80259,,,72-35 HILLMEYER AVE,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,05:55,QUEENS,,40.736286,-73.90852,,,58-16 LAUREL HILL BLVD,1,0,0,0,0,0,0,0,Driver Inexperience,Failure to Yield Right-of-Way,4 dr sedan,E-Scooter (standing)
+2026-11-07T00:00:00.000,12:05,QUEENS,,40.77471,-73.91359,,,29-12 23 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inexperience,4 dr sedan,
+2026-11-07T00:00:00.000,19:33,QUEENS,11361,40.762974,-73.76079,43 AVE,221 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,00:15,BRONX,10458,40.859875,-73.89322,E 188 ST,WEBSTER AVE,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,,
+2026-11-07T00:00:00.000,17:57,MANHATTAN,10011,40.742912,-73.992805,W 23 ST,AVENUE OF THE AMERICAS,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Bicyclist
+2026-11-07T00:00:00.000,20:56,QUEENS,,40.69262,-73.82937,,,94-32 117 ST,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,08:10,QUEENS,,40.727776,-73.92902,BROOKLYN QUEENS EXPRESSWAY,,,1,0,0,0,0,0,1,0,Other Vehicular,Other Vehicular,4 dr sedan,Van
+2026-11-07T00:00:00.000,16:36,BRONX,10467,40.88439,-73.87996,JEROME AVE,E 212 ST,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,03:34,QUEENS,,40.7084,-73.898,PALMETTO ST,FRESH POND RD,,1,0,0,0,0,0,1,0,Does Not Apply,Failure to Yield Right-of-Way,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,08:25,MANHATTAN,,40.80503,-73.95682,W 116 ST,,,0,0,0,0,0,0,0,0,Fell Asleep,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,16:00,QUEENS,11432,40.70511,-73.80455,,,152-11 89 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-07T00:00:00.000,18:00,QUEENS,11367,40.72784,-73.83283,VAN WYCK EXPY,JEWEL AVE,,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Does Not Apply,Sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,20:00,,,40.656673,-73.74104,147 RD,HUXLEY ST,,0,0,0,0,0,0,0,0,Backing Unsafely,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,14:00,QUEENS,,40.60403,-73.76622,HEALY AVE,HARTMAN LN,,1,0,1,0,0,0,0,0,Turning Improperly,,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,15:36,BRONX,,40.809563,-73.92922,E 135 ST,3 AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,Taxi,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,07:20,MANHATTAN,,40.738937,-73.99817,,,147 W 15 ST,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,14:35,BROOKLYN,11206,40.699707,-73.95717,BEDFORD AVE,WALLABOUT ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Ambulance,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,06:56,BROOKLYN,,40.676544,-74.00679,COLUMBIA ST,MILL ST,,0,0,0,0,0,0,0,0,Does Not Apply,Turning Improperly,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,16:11,BROOKLYN,11235,40.58814,-73.931786,VOORHIES AVE,KNAPP ST,,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,22:00,MANHATTAN,10011,40.74523,-74.00596,10 AVE,W 19 ST,,1,0,0,0,1,0,0,0,Passing or Lane Usage Improper,Backing Unsafely,Bicyclist,
+2026-11-07T00:00:00.000,01:10,MANHATTAN,10040,40.856773,-73.932396,,,4460 BROADWAY,0,0,0,0,0,0,0,0,Unsafe Speed,,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,22:10,QUEENS,11435,40.702736,-73.815796,,,137-21 JAMAICA AVE,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Passing or Lane Usage Improper,4 dr sedan,E-Scooter (standing)
+2026-11-07T00:00:00.000,20:56,BROOKLYN,11207,40.65945,-73.89846,NEW LOTS AVE,SNEDIKER AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,22:40,BROOKLYN,11208,40.667953,-73.87006,LINDEN BLVD,EUCLID AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Bicyclist,4 dr sedan
+2026-11-07T00:00:00.000,02:50,BRONX,10452,40.84424,-73.92362,UNIVERSITY AVE,OGDEN AVE,,5,0,0,0,0,0,5,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,14:26,BROOKLYN,,40.60562,-74.01315,BAY 11 ST,CROPSEY AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Failure to Yield Right-of-Way,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,20:35,MANHATTAN,10002,40.72173,-73.98468,E HOUSTON ST,SUFFOLK ST,,3,0,0,0,0,0,2,0,Does Not Apply,Unsafe Speed,Taxi,E-Bike (must have pedals)
+2026-11-07T00:00:00.000,16:15,BRONX,10451,40.824062,-73.92814,E 153 ST,RIVER AVE,,1,0,0,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,E-Scooter (standing)
+2026-11-07T00:00:00.000,11:59,BROOKLYN,11224,40.581993,-73.9846,,,3035 CROPSEY AVE,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Van,
+2026-11-07T00:00:00.000,18:24,MANHATTAN,10019,40.765244,-73.97557,,,40 CENTRAL PARK S,1,0,0,0,1,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-07T00:00:00.000,12:09,BROOKLYN,,40.67175,-73.89684,SHEFFIELD AVE,PITKIN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,13:45,QUEENS,,40.678364,-73.77948,GUY R BREWER BLVD,,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,Van,
+2026-11-07T00:00:00.000,18:00,STATEN ISLAND,,40.549114,-74.15063,NELSON AVE,LOCUST PL,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-07T00:00:00.000,17:35,BRONX,,40.87456,-73.86034,,,919 MAGENTA ST,0,0,0,0,0,0,0,0,Tire/Wheel failure/inadequate,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,16:08,BRONX,10462,40.830296,-73.85065,CROSS BRONX EXPY,CASTLE HILL AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,Sedan,4 dr sedan
+2026-11-07T00:00:00.000,09:14,MANHATTAN,10065,40.769268,-73.96936,5 AVE,E 67 ST,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,2 dr sedan,
+2026-11-07T00:00:00.000,02:05,QUEENS,,40.655743,-73.85908,BELT PARKWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,15:00,BROOKLYN,,40.624184,-73.99885,,,1422 65 ST,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,13:00,MANHATTAN,,40.727955,-73.99838,,,3 WASHINGTON SQUARE VLG,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-07T00:00:00.000,20:00,QUEENS,,40.60806,-73.752266,REDFERN AVE,HASSOCK ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-07T00:00:00.000,21:55,MANHATTAN,,40.706768,-74.01251,BROADWAY,EXCHANGE PL,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,Station Wagon/Sport Utility Vehicle,Bus (Omnibus)
+2026-11-07T00:00:00.000,15:40,,,40.658012,-73.753525,,,228-10 147 AVE,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,14:50,QUEENS,,40.781693,-73.8257,20 AVENUE,I 678,,2,0,0,0,0,0,2,0,Does Not Apply,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Motorcycle
+2026-11-07T00:00:00.000,04:44,BRONX,10475,40.86848,-73.83265,NEW ENGLAND TRWY,BARTOW AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,05:27,BROOKLYN,11207,40.680664,-73.90262,BUSHWICK AVE,CONWAY ST,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,16:14,BROOKLYN,,40.655464,-73.94032,,,21 E 40 ST,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Bicyclist
+2026-11-07T00:00:00.000,21:30,MANHATTAN,,40.862312,-73.92943,BROADWAY,SHERMAN AVE,,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Bicyclist,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,21:28,BRONX,10468,40.861866,-73.91274,W FORDHAM RD,MAJOR DEEGAN EXPY,,2,0,0,0,0,0,2,0,Does Not Apply,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,15:05,BRONX,10462,40.832645,-73.85121,CASTLE HILL AVE,ELLIS AVE,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-07T00:00:00.000,08:55,QUEENS,,40.73803,-73.79489,64 AVE,174 ST,,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-07T00:00:00.000,15:50,QUEENS,11420,40.67351,-73.81606,SUTTER AVE,122 PL,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Pick-up Truck
+2026-11-07T00:00:00.000,10:46,QUEENS,,40.69367,-73.817825,130 ST,97 AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,04:29,BRONX,,40.830223,-73.83404,BRUCKNER BLVD,BALCOM AVE,,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-07T00:00:00.000,16:00,MANHATTAN,,40.846622,-73.93731,W 176 ST,WADSWORTH AVE,,1,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,E-Bike (must have pedals)
+2026-11-07T00:00:00.000,02:20,MANHATTAN,10029,40.788082,-73.94213,,,333 E 103 ST,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,04:27,BROOKLYN,,40.644825,-73.99627,41 ST,9 AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-07T00:00:00.000,09:56,BROOKLYN,11234,40.615128,-73.92885,,,2240 FLATBUSH AVE,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Driver Inattention/Distraction,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,07:35,QUEENS,,40.755203,-73.74191,LONG ISLAND EXPRESSWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Aggressive Driving/Road Rage,Tractor Trailer,Station Wagon/Sport Utility Vehicle
+2026-11-07T00:00:00.000,02:30,QUEENS,,40.753693,-73.89831,BROOKLYN QUEENS EXPRESSWAY,,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,06:15,BROOKLYN,,40.677353,-73.94423,BROOKLYN AVE,,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,07:14,STATEN ISLAND,10305,40.612724,-74.07141,TOMPKINS AVE,CLIFTON AVE,,3,0,0,0,0,0,3,0,Driver Inexperience,Failure to yield to an emergency vehicle,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,16:00,QUEENS,11417,40.67447,-73.84941,87 ST,PITKIN AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-06T00:00:00.000,07:43,,,40.640644,-73.743385,BROOKVILLE BOULEVARD,ROCKAWAY BOULEVARD,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Sedan,
+2026-11-06T00:00:00.000,22:28,QUEENS,,40.781506,-73.81695,149 ST,20 AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-06T00:00:00.000,17:38,BRONX,10455,40.814346,-73.89667,E 156 ST,BRUCKNER BLVD,,1,0,0,0,0,0,1,0,Does Not Apply,Turning Improperly,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,00:00,STATEN ISLAND,10304,40.614395,-74.08256,,,225 PARK HILL AVE,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,01:00,BROOKLYN,,40.66648,-73.90944,,,557 ROCKAWAY AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,00:41,BROOKLYN,11204,40.60817,-73.98734,BAY PKWY,BAY RIDGE PKWY,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-06T00:00:00.000,08:00,BROOKLYN,,40.592003,-73.92807,,,32 FANE CT,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,2 dr sedan,
+2026-11-06T00:00:00.000,22:20,QUEENS,11356,40.7856,-73.839355,129 ST,14 AVE,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,00:00,QUEENS,11372,40.750824,-73.874084,93 ST,37 AVE,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-06T00:00:00.000,10:57,STATEN ISLAND,10310,40.62894,-74.11619,BROADWAY,FOREST AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,08:10,BROOKLYN,11230,40.61306,-73.95815,AVENUE O,E 16 ST,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,
+2026-11-06T00:00:00.000,08:33,QUEENS,,40.738712,-73.84657,G.C.P. / L.I.E (CDR),,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,08:05,BROOKLYN,,40.58588,-73.912704,BELT PARKWAY,,,1,0,0,0,0,0,1,0,Does Not Apply,Following Too Closely,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-06T00:00:00.000,11:35,QUEENS,11106,40.767014,-73.93494,12 ST,BROADWAY,,0,0,0,0,0,0,0,0,Does Not Apply,Turning Improperly,4 dr sedan,Unknown Truck
+2026-11-06T00:00:00.000,15:59,MANHATTAN,10031,40.82965,-73.94438,W 152 ST,AMSTERDAM AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Backing Unsafely,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,18:15,QUEENS,,40.677032,-73.82468,114 ST,ROCKAWAY BLVD,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,09:54,QUEENS,11101,40.745068,-73.938255,29 ST,SKILLMAN AVE,,0,0,0,0,0,0,0,0,Backing Unsafely,,4 dr sedan,
+2026-11-06T00:00:00.000,05:20,BROOKLYN,,40.598904,-74.00712,BELT PARKWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,20:39,BRONX,,40.889317,-73.908134,RIVERDALE AVE,W 239 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-06T00:00:00.000,11:26,BRONX,,40.843304,-73.927704,MAJOR DEEGAN EXPY,MAJOR DEEGAN EXPY SB EXIT 7 N,,1,0,0,0,0,0,1,0,Does Not Apply,Aggressive Driving/Road Rage,4 dr sedan,Tractor Trailer
+2026-11-06T00:00:00.000,17:00,BROOKLYN,11221,40.693455,-73.92521,BUSHWICK AVE,HARMAN ST,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-06T00:00:00.000,20:09,QUEENS,11693,40.58862,-73.81701,BEACH 92 ST,BEACH CHANNEL DR,,1,0,1,0,0,0,0,0,Pavement Slippery,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,15:53,MANHATTAN,,0,0,,,251 SPRING ST,1,0,0,0,1,0,0,0,Does Not Apply,Driver Inattention/Distraction,Bicyclist,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,09:05,BROOKLYN,,40.696896,-73.95564,PARK AVE,,,1,0,0,0,1,0,0,0,Does Not Apply,Over-correcting/Over-steering,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-06T00:00:00.000,19:31,BRONX,10456,40.832283,-73.90962,E 168 ST,WEBSTER AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,20:50,QUEENS,11355,40.747406,-73.81478,,,140-14 POPLAR AVE,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Ambulance
+2026-11-06T00:00:00.000,14:09,,,40.673775,-73.73447,BELT PKWY,,,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,4 dr sedan,
+2026-11-06T00:00:00.000,19:42,MANHATTAN,10034,40.868114,-73.919754,BROADWAY,ISHAM ST,,0,0,0,0,0,0,0,0,Does Not Apply,Failure to maintain lane,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,08:41,BROOKLYN,,40.63056,-74.01926,72 ST,6 AVE,,1,0,1,0,0,0,0,0,Backing Unsafely,,4 dr sedan,
+2026-11-06T00:00:00.000,14:41,BROOKLYN,,40.66777,-73.94513,BROOKLYN AVE,,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Tank Truck
+2026-11-06T00:00:00.000,05:43,BROOKLYN,,40.66109,-73.932274,,,844 MIDWOOD ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown Car
+2026-11-06T00:00:00.000,14:37,MANHATTAN,10002,40.72217,-73.985344,,,250 E HOUSTON ST,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,4 dr sedan,
+2026-11-06T00:00:00.000,13:30,BROOKLYN,11222,40.72775,-73.94199,NORMAN AVE,KINGSLAND AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,18:10,BROOKLYN,11220,40.638153,-74.01396,60 ST,6 AVE,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,Van,
+2026-11-06T00:00:00.000,15:07,MANHATTAN,10003,40.73599,-73.989456,E 16 ST,UNION SQ E,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,11:44,BROOKLYN,,40.610115,-73.98894,74 ST,21 AVE,,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,,Delivery Truck,
+2026-11-06T00:00:00.000,07:38,BROOKLYN,11236,40.6458,-73.89905,E 100 ST,CONKLIN AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,16:31,MANHATTAN,10128,40.787914,-73.95578,5 AVE,E 96 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Bus (Omnibus)
+2026-11-06T00:00:00.000,14:00,BROOKLYN,11203,40.658478,-73.92817,WINTHROP ST,E 53 ST,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,Ambulance
+2026-11-06T00:00:00.000,21:10,BROOKLYN,,40.625015,-73.9904,,,1631 59 ST,1,0,0,0,1,0,0,0,Does Not Apply,Does Not Apply,Bicyclist,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,20:00,QUEENS,,40.722347,-73.777275,188 STREET,GRAND CENTRAL PARKWAY,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-06T00:00:00.000,18:40,MANHATTAN,10016,40.751575,-73.98228,5 AVE,W 39 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-06T00:00:00.000,08:35,QUEENS,,40.733673,-73.80467,,,67-39 164 ST,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Station Wagon/Sport Utility Vehicle,Bicyclist
+2026-11-06T00:00:00.000,14:35,QUEENS,11412,40.707306,-73.75121,HOLLIS AVE,FRANCIS LEWIS BLVD,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,10:07,QUEENS,11691,40.60457,-73.75354,BEACH 21 ST,MOTT AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-06T00:00:00.000,16:30,BRONX,,40.86087,-73.84183,WOODHULL AVE,WARING AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+2026-11-06T00:00:00.000,18:59,BROOKLYN,,40.598305,-73.94148,NOSTRAND AVE,AVENUE V,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,14:05,BRONX,,40.841637,-73.89317,CROTONA PARK N,CLINTON AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Motor Home,Unknown Car
+2026-11-06T00:00:00.000,12:35,BROOKLYN,11231,40.674625,-74.00771,LORRAINE ST,COLUMBIA ST,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,Dirt Bike
+2026-11-06T00:00:00.000,08:42,QUEENS,,40.720253,-73.82105,141 ST,77 RD,,1,0,1,0,0,0,0,0,Driver Inexperience,,4 dr sedan,
+2026-11-06T00:00:00.000,14:55,BRONX,,40.869083,-73.82092,HUTCHINSON RIVER PARKWAY,,,0,0,0,0,0,0,0,0,Pavement Slippery,Reaction to Uninvolved Vehicle,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,02:43,QUEENS,,40.744762,-73.868774,,,94-55 44 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Sedan,Van
+2026-11-06T00:00:00.000,21:00,QUEENS,,40.750027,-73.93699,,,29-17 QUEENS PLZ N,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,16:15,BROOKLYN,,40.632427,-73.93512,AVENUE H,E 43 ST,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,08:10,,,40.62577,-74.1559,,,2040 FOREST AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-06T00:00:00.000,00:00,BROOKLYN,11216,40.678722,-73.95299,ATLANTIC AVE,BEDFORD AVE,,2,0,0,0,0,0,2,0,Aggressive Driving/Road Rage,,Utility,
+2026-11-06T00:00:00.000,21:10,QUEENS,11372,40.75634,-73.87793,90 ST,NORTHERN BLVD,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,00:46,BROOKLYN,11213,40.668507,-73.925606,EASTERN PKWY,BUFFALO AVE,,2,0,0,0,0,0,2,0,Does Not Apply,Does Not Apply,Van,4 dr sedan
+2026-11-06T00:00:00.000,16:55,BROOKLYN,11226,40.653576,-73.95945,FLATBUSH AVE,LENOX RD,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-06T00:00:00.000,08:12,BROOKLYN,,40.6084,-73.97852,,,251 AVENUE P,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Dump,Bus (Omnibus)
+2026-11-06T00:00:00.000,11:10,QUEENS,,40.747902,-73.861824,,,103-12 42 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Utility,Utility
+2026-11-06T00:00:00.000,11:48,MANHATTAN,10037,40.82044,-73.936226,W 145 ST,LENOX AVE,,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Bicyclist,
+2026-11-06T00:00:00.000,07:30,BROOKLYN,,40.68087,-73.99888,CLINTON ST,,,2,0,0,0,2,0,0,0,Passing or Lane Usage Improper,Does Not Apply,Bicyclist,
+2026-11-06T00:00:00.000,03:09,QUEENS,,40.743008,-73.83384,HORACE HARDING EXPY,LAWRENCE ST,,0,0,0,0,0,0,0,0,Alcohol Involvement,,4 dr sedan,
+2026-11-06T00:00:00.000,21:47,BROOKLYN,11234,40.59251,-73.90823,,,6000 BELT PKWY,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,14:40,BRONX,,40.854084,-73.86752,,,2126 WHITE PLAINS RD,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,05:14,QUEENS,11102,40.7697,-73.932724,12 ST,30 DR,,3,0,0,0,0,0,3,0,Traffic Control Disregarded,Does Not Apply,Station Wagon/Sport Utility Vehicle,Utility
+2026-11-06T00:00:00.000,23:50,,,40.66743,-73.766754,FARMERS BLVD,N CONDUIT AVE,,4,0,0,0,0,0,4,0,Does Not Apply,Animals Action,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,19:36,BROOKLYN,11203,40.655273,-73.93177,LENOX RD,E 49 ST,,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,07:20,BRONX,10453,40.85018,-73.91058,JEROME AVE,E 177 ST,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,08:00,STATEN ISLAND,10312,40.562767,-74.18087,WOODROW RD,HEFFERNAN ST,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,07:44,MANHATTAN,10128,40.77918,-73.95079,E 88 ST,2 AVE,,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Taxi,E-Bike (must have pedals)
+2026-11-06T00:00:00.000,19:00,QUEENS,11101,40.756058,-73.942825,12 ST,40 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,
+2026-11-06T00:00:00.000,16:52,QUEENS,,40.75089,-73.75112,HORACE HARDING EXPY,CLOVERDALE BLVD,,1,0,0,0,0,0,1,0,Following Too Closely,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,22:23,BROOKLYN,11201,40.70009,-73.98778,PEARL ST,SANDS ST,,0,0,0,0,0,0,0,0,Does Not Apply,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Taxi,Bicyclist
+2026-11-06T00:00:00.000,11:10,STATEN ISLAND,10312,40.524,-74.1861,HYLAN BLVD,HUGUENOT AVE,,1,0,0,0,0,0,1,0,Lost Consciousness,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,12:48,MANHATTAN,,40.828236,-73.93508,WEST 155 STREET,MACOMBS DAM BRIDGE,,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,Station Wagon/Sport Utility Vehicle,Utility
+2026-11-06T00:00:00.000,16:44,BROOKLYN,,40.66199,-73.91269,LIVONIA AVE,,,1,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Moped
+2026-11-06T00:00:00.000,15:56,BROOKLYN,,40.660587,-73.980415,,,210 PROSPECT PARK W,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-06T00:00:00.000,16:35,MANHATTAN,10017,40.75457,-73.97168,E 48 ST,3 AVE,,1,0,1,0,0,0,0,0,Does Not Apply,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,08:52,MANHATTAN,10035,40.80275,-73.93358,E 125 ST,2 AVE,,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,,4 dr sedan,
+2026-11-06T00:00:00.000,12:05,BRONX,10462,40.83419,-73.84525,ZEREGA AVE,NEWBOLD AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,04:30,MANHATTAN,,40.765182,-73.98881,,,415 W 52 ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,02:03,MANHATTAN,,40.797485,-73.948784,5 AVE,E 111 ST,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,17:05,BROOKLYN,11223,40.602467,-73.96637,OCEAN PKWY,AVENUE S,,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-06T00:00:00.000,07:52,QUEENS,11385,40.712902,-73.906075,METROPOLITAN AVE,FOREST AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Passing or Lane Usage Improper,Van,Bicyclist
+2026-11-06T00:00:00.000,01:07,BROOKLYN,11204,40.61652,-73.985855,20 AVE,65 ST,,1,0,0,0,0,0,1,0,Does Not Apply,Alcohol Involvement,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,08:55,MANHATTAN,10027,40.80886,-73.952126,W 123 ST,FREDERICK DOUGLASS BLVD,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Bus (Omnibus)
+2026-11-06T00:00:00.000,16:40,BROOKLYN,11223,40.593998,-73.98071,86 ST,AVENUE V,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Bus (Omnibus),Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,17:08,QUEENS,,40.702435,-73.78246,,,173-33 106 AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Van
+2026-11-06T00:00:00.000,15:00,STATEN ISLAND,,40.589283,-74.12737,,,1537 MANOR RD,0,0,0,0,0,0,0,0,Animals Action,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,09:50,QUEENS,11106,40.765224,-73.931694,21 ST,BROADWAY,,2,0,0,0,0,0,2,0,Does Not Apply,Driver Inattention/Distraction,Van,Delivery Truck
+2026-11-06T00:00:00.000,09:57,MANHATTAN,10002,40.7117,-73.984856,MONTGOMERY ST,CHERRY ST,,1,0,0,0,0,0,1,0,Does Not Apply,Other Vehicular,Station Wagon/Sport Utility Vehicle,Dump
+2026-11-06T00:00:00.000,09:06,QUEENS,,40.673573,-73.85712,79 ST,N CONDUIT AVE,,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,19:16,QUEENS,11375,40.72562,-73.85103,QUEENS BLVD,68 AVE,,1,0,0,0,0,0,0,0,Following Too Closely,Does Not Apply,4 dr sedan,Moped
+2026-11-06T00:00:00.000,06:52,STATEN ISLAND,,40.545742,-74.23133,,,18 JOHNSON ST,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,Dump,Bus (Omnibus)
+2026-11-06T00:00:00.000,09:24,,,40.68642,-73.751144,197 ST,NASHVILLE BLVD,,1,0,0,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Driver Inattention/Distraction,4 dr sedan,E-Scooter (standing)
+2026-11-06T00:00:00.000,17:45,QUEENS,11369,40.768127,-73.87624,94 ST,23 AVE,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-06T00:00:00.000,16:00,QUEENS,11374,40.727833,-73.85521,,,98-81 QUEENS BLVD,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-06T00:00:00.000,12:00,QUEENS,,40.737553,-73.85089,LONG ISLAND EXPRESSWAY,,,3,0,0,0,0,0,3,0,Following Too Closely,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,18:30,BROOKLYN,,40.677208,-73.91628,,,257 SARATOGA AVE,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,2 dr sedan
+2026-11-06T00:00:00.000,12:39,BRONX,,40.83656,-73.86728,,,1447 BEACH AVE,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-06T00:00:00.000,21:28,BRONX,10460,40.83553,-73.86316,WHITE PLAINS RD,WOOD AVE,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,4 dr sedan,
+2026-11-06T00:00:00.000,03:40,MANHATTAN,,40.764057,-73.99224,W 49 ST,,,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Passing or Lane Usage Improper,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,06:00,BRONX,10468,40.86141,-73.901764,,,2400 JEROME AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,
+2026-11-06T00:00:00.000,21:08,MANHATTAN,,40.714314,-73.97481,WILLIAMSBURG BRIDGE INNER ROADWAY,,,4,0,0,0,0,0,4,0,Alcohol Involvement,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,13:50,BROOKLYN,11211,40.71277,-73.94652,,,196 AINSLIE ST,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,19:00,BROOKLYN,11212,40.66885,-73.91635,PITKIN AVE,STRAUSS ST,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,17:00,QUEENS,11433,40.705364,-73.78194,,,177-16 LIBERTY AVE,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,08:55,BROOKLYN,,40.67224,-73.96103,CLASSON AVE,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,15:13,MANHATTAN,,40.73874,-73.98251,,,207 E 23 ST,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Bus (Omnibus),
+2026-11-06T00:00:00.000,18:25,BRONX,10461,40.84751,-73.85364,HONE AVE,VAN NEST AVE,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,Utility
+2026-11-06T00:00:00.000,22:46,MANHATTAN,10019,40.76998,-73.994644,W 55 ST,12 AVE,,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Does Not Apply,Truck w/ Small Wheels,4 dr sedan
+2026-11-06T00:00:00.000,07:03,,,40.63682,-74.15876,RICHMOND TER,COONLEY CT,,0,0,0,0,0,0,0,0,Does Not Apply,Backing Unsafely,Bus (Omnibus),Flat Bed Truck
+2026-11-06T00:00:00.000,23:00,BROOKLYN,,40.686264,-73.956696,FRANKLIN AVE,,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,07:48,QUEENS,11694,40.586296,-73.82286,,,100-00 BEACH CHANNEL DR,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,
+2026-11-06T00:00:00.000,14:45,BRONX,10475,40.868473,-73.82157,HUTCHINSON RIVER PKWY E,BARTOW AVE,,0,0,0,0,0,0,0,0,Following Too Closely,Does Not Apply,Van,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,04:23,BRONX,,40.82267,-73.92006,CONCOURSE VLG E,E 156 ST,,0,0,0,0,0,0,0,0,Unsafe Speed,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,04:50,QUEENS,11414,40.665,-73.84858,155 AVE,86 ST,,1,0,0,0,0,0,1,0,Does Not Apply,Does Not Apply,2 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,20:20,QUEENS,11693,40.586704,-73.81703,BEACH 94 ST,ROCKAWAY FWY,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,16:00,BROOKLYN,,40.709053,-73.9671,S 9 ST,WYTHE AVE,,1,0,0,0,1,0,0,0,Does Not Apply,Driver Inattention/Distraction,Bicyclist,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,16:25,QUEENS,11415,40.706142,-73.831764,METROPOLITAN AVE,LEFFERTS BLVD,,1,0,0,0,0,0,1,0,Does Not Apply,Driver Inattention/Distraction,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,13:14,BROOKLYN,11236,40.652435,-73.91182,AVENUE B,E 96 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Delivery Truck
+2026-11-06T00:00:00.000,21:20,QUEENS,,40.736633,-73.80102,168 ST,65 AVE,,1,0,0,0,0,0,0,0,Does Not Apply,Other Vehicular,E-Scooter (sitting),
+2026-11-06T00:00:00.000,09:23,MANHATTAN,,40.79149,-73.93577,FDR DRIVE,,,1,0,0,0,0,0,1,0,Does Not Apply,Unsafe Lane Changing,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,13:11,QUEENS,11420,40.672203,-73.80284,,,135-20 SUTTER AVE,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,15:30,BRONX,10457,40.847702,-73.90096,E TREMONT AVE,WEBSTER AVE,,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Oversized Vehicle,4 dr sedan,Bus (Omnibus)
+2026-11-06T00:00:00.000,09:00,QUEENS,,40.709896,-73.83941,JACKIE ROBINSON PKWY,,,0,0,0,0,0,0,0,0,Does Not Apply,Passing or Lane Usage Improper,4 dr sedan,4 dr sedan
+2026-11-06T00:00:00.000,19:45,,,40.66671,-73.78038,S CONDUIT AVE,156 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2026-11-06T00:00:00.000,22:00,BROOKLYN,,40.682888,-73.88522,,,99 RIDGEWOOD AVE,0,0,0,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,06:44,,,40.624912,-74.1467,FOREST AVE,WILLOW RD W,,1,0,1,0,0,0,0,0,Does Not Apply,,4 dr sedan,
+2026-11-06T00:00:00.000,11:10,MANHATTAN,10036,40.75734,-73.986015,W 44 ST,7 AVE,,1,0,0,0,0,0,0,0,Does Not Apply,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,E-Bike (must have pedals)
+2026-11-06T00:00:00.000,18:25,,,40.677887,-73.745605,MERRICK BLVD,224 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Driver Inattention/Distraction,Bus (Omnibus),4 dr sedan
+2026-11-06T00:00:00.000,07:10,MANHATTAN,10007,40.71647,-74.01308,WEST ST,WARREN ST,,1,0,0,0,0,0,1,0,Outside Car Distraction,Does Not Apply,Taxi,Van
+2026-11-06T00:00:00.000,23:54,MANHATTAN,10027,40.80641,-73.950195,ADAM CLAYTON POWELL JR BLVD,W 121 ST,,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Driver Inattention/Distraction,Van,Taxi
+2026-11-06T00:00:00.000,12:20,BROOKLYN,,40.585957,-73.93233,BELT PARKWAY,,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,19:55,BROOKLYN,11225,40.663906,-73.95097,NOSTRAND AVE,EMPIRE BLVD,,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,,Utility,
+2026-11-06T00:00:00.000,23:40,MANHATTAN,10003,40.730724,-73.98905,E 10 ST,3 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Failure to Yield Right-of-Way,Ambulance,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,15:50,BRONX,10463,40.87474,-73.90674,,,2831 EXTERIOR ST,1,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Moped
+2026-11-06T00:00:00.000,08:20,QUEENS,11432,40.707226,-73.8045,153 ST,HILLSIDE AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,4 dr sedan,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,13:22,MANHATTAN,10017,40.750763,-73.96843,1 AVE,E 45 ST,,0,0,0,0,0,0,0,0,Driver Inexperience,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,09:00,MANHATTAN,,40.7092,-73.9919,MANHATTAN BR UPPER,,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Utility Task Vehicle
+2026-11-06T00:00:00.000,12:00,BROOKLYN,11220,40.641773,-74.02457,2 AVE,63 ST,,0,0,0,0,0,0,0,0,Does Not Apply,Does Not Apply,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,14:05,,,40.66206,-73.75147,228 ST,145 AVE,,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2026-11-06T00:00:00.000,13:00,QUEENS,11101,40.75412,-73.92954,33 ST,37 AVE,,0,0,0,0,0,0,0,0,Does Not Apply,Following Too Closely,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,07:35,QUEENS,,40.59628,-73.77142,,,38-08 BEACH CHANNEL DR,0,0,0,0,0,0,0,0,Other Vehicular,Backing Unsafely,4 dr sedan,
+2026-11-06T00:00:00.000,16:26,QUEENS,11429,40.718502,-73.73526,JAMAICA AVE,SPRINGFIELD BLVD,,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,,Station Wagon/Sport Utility Vehicle,
+2026-11-06T00:00:00.000,08:00,,,40.63146,-74.15807,UNION AVE,BRABANT ST,,1,0,0,0,0,0,1,0,Does Not Apply,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,4 dr sedan
